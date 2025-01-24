@@ -15,21 +15,21 @@ Este repositório contém projetos desenvolvidos ao longo da minha trajetória, 
 - **[Análise de Dados de NPS](https://github.com/jorgebooz/Dashboards/tree/main/Megga%20-%20NPS)**  
   Insights a partir dos dados históricos de uma base de NPS usando o Power BI. O projeto inclui a análise de satisfação de clientes e identificação de padrões de comportamento.
 
-- **[Análise de Dados de Petshop](#)**  
+- **[Análise de Dados de Petshop](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Gatito%20Petshop)**  
   Análise das vendas do Gatito Petshop com layout adaptado para visualização em dispositivos móveis. O objetivo é otimizar a gestão de estoque e vendas.
 
-- **[Análise de E-commerce](#)**  
+- **[Análise de E-commerce](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Buscante%20-%20ecommerce)**  
   Análise dos acessos ao e-commerce, vendas e perfil dos clientes. Através do Power BI, visualizamos métricas de performance e comportamento de compra.
 
 - **[People Analytics](#)**  
   Análise de movimentações, admissões, turnover e outras métricas de RH. O projeto busca melhorar a gestão de pessoas com base em dados analíticos.
 
-- **[Análise de Faturamento](#)**  
+- **[Análise de Faturamento](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Lotus%20-%20Vendas)**  
   Análise do faturamento de uma loja de produtos naturais, focando em vendas por categorias e tendências de consumo.
 
 #### DAX e M
 
-- **[Transformação de Dados de Vendas](#)**  
+- **[Transformação de Dados de Vendas](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Vendas%20-%20DAX%20e%20M)**  
   Utilização das linguagens DAX e M para realizar transformações de dados e cálculos dinâmicos. O projeto inclui otimização de cálculos e criação de métricas customizadas.
 
 ---
