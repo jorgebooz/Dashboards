@@ -12,7 +12,7 @@ Este repositório contém projetos desenvolvidos ao longo da minha trajetória, 
 
 ### Power BI
 
-- **[Análise de Dados de NPS](https://github.com/jorgebooz/Dashboards/tree/main/Megga%20-%20NPS)**  
+- **[Análise de Dados de NPS](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Megga%20-%20NPS)**  
   Insights a partir dos dados históricos de uma base de NPS usando o Power BI. O projeto inclui a análise de satisfação de clientes e identificação de padrões de comportamento.
 
 - **[Análise de Dados de Petshop](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Gatito%20Petshop)**  
