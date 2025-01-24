@@ -8,18 +8,18 @@ A empresa vinha notando uma diminuição em sua NPS. O gerente precisa de insigh
 
 ### 1. Dashboard Completo
 
-![Dashboard](#)-
+![Dashboard](https://github.com/jorgebooz/Dashboards/blob/main/Dashboards/src/megga.PNG?raw=true)-
 
 ### 2. Base de dados Power Query
-![Power Query](#)
+![Power Query](https://github.com/jorgebooz/Dashboards/blob/main/Dashboards/src/megga%20-%20power%20query.PNG?raw=true)
 
 ### 3. Medidas utilizadas
-![Medidas](#)
+![Medidas](https://github.com/jorgebooz/Dashboards/blob/main/Dashboards/src/megga%20-medidas.PNG?raw=true)
 
 ### 3. Encontrado o público detrator
 Encontrei qual segmento necessitava de mais atenção e com base nos comentários o gerente encontrou o que deveria fazer.
 
-![Enterprise](#)
+![Enterprise](https://github.com/jorgebooz/Dashboards/blob/main/Dashboards/src/megga%20-detratores.PNG?raw=true)
 
 
 ## Resultado Final
