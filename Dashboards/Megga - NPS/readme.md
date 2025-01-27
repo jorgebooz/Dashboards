@@ -1,4 +1,4 @@
-# Relatório de Análise de Vendas
+# Relatório de Análise de NPS
 
 ## Declaração do Problema
 
@@ -38,4 +38,4 @@ O resultado final é um **Relatório de Análise de NPS Geral** que fornece insi
 
 ### Conclusão
 
-Através deste projeto, adquiri experiência prática com o Power BI, trabalhando com limpeza de dados, modelagem e funções DAX para criar relatórios interativos e ricos em insights. O relatório final de análise de vendas oferece informações valiosas para a tomada de decisões empresariais.
+Através deste projeto, adquiri experiência prática com o Power BI, trabalhando com limpeza de dados, modelagem e funções DAX para criar relatórios interativos e ricos em insights. O relatório final de NPS oferece informações valiosas para a tomada de decisões de costume experience.
