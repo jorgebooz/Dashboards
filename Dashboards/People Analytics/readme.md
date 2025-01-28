@@ -16,7 +16,7 @@ A empresa buscava visualizar um panorama completo do seu time de People (Recurso
 ## Demonstração
 
 ### 1. Dashboard Completo
-![Dashboard](#)  
+![Dashboard](https://github.com/jorgebooz/Data-Science/blob/main/Dashboards/src/People%20-%20dashboard.PNG?raw=true)  
 *Visualização completa das métricas de RH, incluindo movimentações, turnover, absenteísmo e contagem de status.*
 
 ---
