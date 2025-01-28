@@ -25,12 +25,7 @@ Este repositório contém projetos desenvolvidos ao longo da minha trajetória, 
   Análise de movimentações, admissões, turnover e outras métricas de RH. O projeto busca melhorar a gestão de pessoas com base em dados analíticos.
 
 - **[Análise de Faturamento](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Lotus%20-%20Vendas)**  
-  Análise do faturamento de uma loja de produtos naturais, focando em vendas por categorias e tendências de consumo.
-
-#### DAX e M
-
-- **[Transformação de Dados de Vendas](https://github.com/jorgebooz/Dashboards/tree/main/Dashboards/Vendas%20-%20DAX%20e%20M)**  
-  Utilização das linguagens DAX e M para realizar transformações de dados e cálculos dinâmicos. O projeto inclui otimização de cálculos e criação de métricas customizadas.
+  Análise do faturamento de uma loja de produtos naturais, focando em vendas por categorias e tendências de consumo.s.
 
 ---
 

@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f3bf646e-537a-4498-abba-e474f8752bfa)# Relatório de Faturamento
-
 ## Declaração do Problema
 
 Este projeto tem como objetivo analisar o faturamento de uma loja, fornecendo insights estratégicos para melhorar a tomada de decisões. As principais perspectivas abordadas são:
