@@ -1,5 +1,3 @@
-# Relatório de E-commerce
-
 ## Declaração do Problema
 
 Este projeto tem como objetivo analisar um e-commerce de forma holística, fornecendo insights estratégicos para melhorar a tomada de decisões. As principais perspectivas abordadas são:
@@ -21,15 +19,16 @@ Este projeto tem como objetivo analisar um e-commerce de forma holística, forne
 ## Demonstração
 
 ### 1. Resumo do E-commerce
-![Dashboard](#)  
+![Dashboard](https://github.com/jorgebooz/Data-Science/blob/main/Dashboards/src/Buscante%20-%20ecommerce.PNG?raw=true)  
 *Visualização do resumo de acessos, assinaturas e produtos mais vendidos.*
 
-### 2. Análise de Vendas  
-![Vendas](#)  
+### 2. Análise de Vendas 
+![Vendas](https://github.com/jorgebooz/Data-Science/blob/main/Dashboards/src/Buscante%20-%20vendas.PNG?raw=true)
 *Progresso de vendas, metas e histórico semanal.*
 
 ### 3. Perfil do Cliente  
-![Cliente](#)  
+![Clientes](
+https://github.com/jorgebooz/Data-Science/blob/main/Dashboards/src/Buscante%20-%20clientes.PNG?raw=true)  
 *Distribuição demográfica e preferências dos clientes.*
 
 ---
