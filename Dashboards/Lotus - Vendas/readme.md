@@ -1,4 +1,4 @@
-# Relatório de Faturamento
+![image](https://github.com/user-attachments/assets/f3bf646e-537a-4498-abba-e474f8752bfa)# Relatório de Faturamento
 
 ## Declaração do Problema
 
@@ -21,15 +21,15 @@ Este projeto tem como objetivo analisar o faturamento de uma loja, fornecendo in
 ## Demonstração
 
 ### 1. Faturamento
-![Dashboard](#)  
+![Dashboard](https://github.com/jorgebooz/Data-Science/blob/main/Dashboards/src/Lotus%20-%20vendas.PNG?raw=true)  
 *Visualização do faturamento, quantidade vendida e desempenho por produto, vendedor e região.*
 
 ### 2. Histórico de Vendas  
-![Vendas](#) 
+![Vendas](https://github.com/jorgebooz/Data-Science/blob/main/Dashboards/src/Lotus%20-%20historico%20de%20vendas.PNG?raw=true) 
 *Análise do histórico de vendas com filtros por ano e linha de produtos.*
 
 ### 3. Relacionamentos
-![Cliente](#)  
+![Cliente](https://github.com/jorgebooz/Data-Science/blob/main/Dashboards/src/Lotus%20-%20relacionamentos.PNG?raw=true)  
 *Visualização dos relacionamentos entre as tabelas do modelo de dados.*
 
 ---
